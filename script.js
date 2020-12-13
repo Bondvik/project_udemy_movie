@@ -76,9 +76,7 @@ const personalMovieDB ={
     } else {
       personalMovieDB.privat = true;
     }
-
   }
-
 };
 
 
